@@ -1,0 +1,6 @@
+require('after.harpoon')
+require('after.treesitter')
+require('after.telescope')
+require('after.fugitive')
+require('after.undotree')
+require('after.lsp')

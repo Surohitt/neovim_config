@@ -1,4 +1,2 @@
-require("suro.remap")
-require("suro.set")
-
-
+require('suro.remap')
+require('suro.set')
